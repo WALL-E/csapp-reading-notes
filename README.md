@@ -1,6 +1,8 @@
 # Computer Systems # A Programmer’s Perspective
 深入理解计算机系统《第二版》，初步计划花一年的时间读完这本书。
 
+[阅读进度](Changes.md)
+
 ## 里程碑
 每一个章认为是一个里程碑，本书有12章内容，那么本项目有12个里程碑。
 
