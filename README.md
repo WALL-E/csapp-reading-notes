@@ -1,5 +1,4 @@
-# Computer Systems 
-## A Programmer’s Perspective
+# Computer Systems # A Programmer’s Perspective
 深入理解计算机系统《第二版》，初步计划花一年的时间读完这本书。
 
 ## 里程碑
