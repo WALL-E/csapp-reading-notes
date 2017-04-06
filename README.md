@@ -6,9 +6,12 @@
 ## 里程碑
 每一个章认为是一个里程碑，本书有12章内容，那么本项目有12个里程碑。
 
+[里程碑](https://github.com/WALL-E/csapp-reading-notes/milestones)
+
 ## 需求
 每章内容的子标题认为是一个需求，外加家庭作业章节
 
+[本书目录](Contents.md)
 
 ## 节选
 ```
